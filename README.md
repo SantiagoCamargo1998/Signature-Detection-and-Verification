@@ -3,7 +3,9 @@ This project detects and verifies handwritten signatures in scanned documents us
 
 
 ## Overview
-This project aims to detect and verify handwritten signatures from scanned documents using image processing techniques and machine learning models.
+This project aims to detect and verify handwritten signatures from scanned documents using image processing techniques and machine learning models. Includes all code and dataset for setup.
+
+
 
 ## Project Structure
 - **src/**: Contains the Python scripts for signature detection and verification.
