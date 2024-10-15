@@ -9,8 +9,8 @@ This project aims to detect and verify handwritten signatures from scanned docum
 
 ## Project Structure
 - **src/**: Contains the Python scripts for signature detection and verification.
-- **data/**: Includes the dataset used for testing, such as TIFF/PNG images.
-- **images/**: Supporting images used for demonstration.
+- **signatures_dataset/**: Includes the dataset used for testing, such as TIFF/PNG images.
+- **test_documents/**: Supporting images used for demonstration.
 
 ## Setup Instructions
 1. Clone the repository:
